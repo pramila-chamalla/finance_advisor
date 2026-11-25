@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Env
+venv/
+.venv/
+
+# Database
+*.db
+
+# Secrets
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Test
+.pytest_cache/
